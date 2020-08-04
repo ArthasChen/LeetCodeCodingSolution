@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TwoSum", "1_TwoSum\1_TwoS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15_ThreeSum", "15_ThreeSum\15_ThreeSum.csproj", "{FA98BF15-EAC4-475A-9951-1AF748D07E10}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_ContainerWithMostWater", "11_ContainerWithMostWater\11_ContainerWithMostWater.csproj", "{9CFC7654-BCD5-41D0-ABD0-2338775C2B13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{FA98BF15-EAC4-475A-9951-1AF748D07E10}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA98BF15-EAC4-475A-9951-1AF748D07E10}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA98BF15-EAC4-475A-9951-1AF748D07E10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CFC7654-BCD5-41D0-ABD0-2338775C2B13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFC7654-BCD5-41D0-ABD0-2338775C2B13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFC7654-BCD5-41D0-ABD0-2338775C2B13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFC7654-BCD5-41D0-ABD0-2338775C2B13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
