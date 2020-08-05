@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_ContainerWithMostWater",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "283_MoveZeroes", "283_MoveZeroes\283_MoveZeroes.csproj", "{27D6175E-6B3F-4BA5-A1DE-CFD8265FCE7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_ClimbingStairs", "70_ClimbingStairs\70_ClimbingStairs.csproj", "{C9D1DB3A-C35D-4CA4-83DC-116DD5940308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{27D6175E-6B3F-4BA5-A1DE-CFD8265FCE7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27D6175E-6B3F-4BA5-A1DE-CFD8265FCE7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27D6175E-6B3F-4BA5-A1DE-CFD8265FCE7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9D1DB3A-C35D-4CA4-83DC-116DD5940308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D1DB3A-C35D-4CA4-83DC-116DD5940308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D1DB3A-C35D-4CA4-83DC-116DD5940308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D1DB3A-C35D-4CA4-83DC-116DD5940308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
