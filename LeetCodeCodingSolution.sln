@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_ReverseNodesInK-Group", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_ValidParentheses\20_ValidParentheses.csproj", "{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155_MinStack", "155_MinStack\155_MinStack.csproj", "{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
