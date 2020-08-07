@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_V
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "155_MinStack", "155_MinStack\155_MinStack.csproj", "{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "84_LargestRectangleInHistogram", "84_LargestRectangleInHistogram\84_LargestRectangleInHistogram.csproj", "{2647E419-DAA4-4698-9991-28711EB59CC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B2A472A-A0D2-4E8A-9D69-D1CF9E3345FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2647E419-DAA4-4698-9991-28711EB59CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2647E419-DAA4-4698-9991-28711EB59CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2647E419-DAA4-4698-9991-28711EB59CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2647E419-DAA4-4698-9991-28711EB59CC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
