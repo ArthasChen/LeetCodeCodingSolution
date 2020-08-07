@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "142_LinkedListCycle2", "142
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25_ReverseNodesInK-Group", "25_ReverseNodesInK-Group\25_ReverseNodesInK-Group.csproj", "{181857A6-1845-45C2-9F77-37BB02341F23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "20_ValidParentheses\20_ValidParentheses.csproj", "{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{181857A6-1845-45C2-9F77-37BB02341F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{181857A6-1845-45C2-9F77-37BB02341F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{181857A6-1845-45C2-9F77-37BB02341F23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{179C8603-E2D8-4D0D-9778-AF2E17CA90F6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
