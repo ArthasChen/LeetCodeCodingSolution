@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "239_SlidingWindowMaximum", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "242_ValidAnagram", "242_ValidAnagram\242_ValidAnagram.csproj", "{55476485-5EE6-4AA5-8FE2-CF7E51F38950}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "49_GroupAnagrams", "49_GroupAnagrams\49_GroupAnagrams.csproj", "{5919067B-B81B-4433-8A8E-2F5BCCB28C3B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{55476485-5EE6-4AA5-8FE2-CF7E51F38950}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55476485-5EE6-4AA5-8FE2-CF7E51F38950}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55476485-5EE6-4AA5-8FE2-CF7E51F38950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5919067B-B81B-4433-8A8E-2F5BCCB28C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5919067B-B81B-4433-8A8E-2F5BCCB28C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5919067B-B81B-4433-8A8E-2F5BCCB28C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5919067B-B81B-4433-8A8E-2F5BCCB28C3B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
