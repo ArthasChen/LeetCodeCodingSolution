@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "144_BinaryTreePreorderTrave
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "590_N-aryTreePostorderTraversal", "590_N-aryTreePostorderTraversal\590_N-aryTreePostorderTraversal.csproj", "{863DC0A0-2E46-47B7-AA74-E5373E35160C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "589_N-aryTreePreorderTraversal", "589_N-aryTreePreorderTraversal\589_N-aryTreePreorderTraversal.csproj", "{5B714E36-24A7-4B3F-8FB9-B8BF7A4C5E53}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{863DC0A0-2E46-47B7-AA74-E5373E35160C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{863DC0A0-2E46-47B7-AA74-E5373E35160C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{863DC0A0-2E46-47B7-AA74-E5373E35160C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B714E36-24A7-4B3F-8FB9-B8BF7A4C5E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B714E36-24A7-4B3F-8FB9-B8BF7A4C5E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B714E36-24A7-4B3F-8FB9-B8BF7A4C5E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B714E36-24A7-4B3F-8FB9-B8BF7A4C5E53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
