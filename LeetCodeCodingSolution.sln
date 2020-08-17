@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "102_BinaryTreeLevelOrderTra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22_GenerateParentheses", "22_GenerateParentheses\22_GenerateParentheses.csproj", "{018F877F-BE76-47B6-A093-A70B1CF9B737}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "226_InvertBinaryTree", "226_InvertBinaryTree\226_InvertBinaryTree.csproj", "{87882C93-5134-43CE-88E0-16D122B2E9A4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{018F877F-BE76-47B6-A093-A70B1CF9B737}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{018F877F-BE76-47B6-A093-A70B1CF9B737}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{018F877F-BE76-47B6-A093-A70B1CF9B737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87882C93-5134-43CE-88E0-16D122B2E9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87882C93-5134-43CE-88E0-16D122B2E9A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87882C93-5134-43CE-88E0-16D122B2E9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87882C93-5134-43CE-88E0-16D122B2E9A4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
