@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88_MergeSortedArray", "88_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17_LetterCombinationsOfAPhoneNumber", "17_LetterCombinationsOfAPhoneNumber\17_LetterCombinationsOfAPhoneNumber.csproj", "{B41B36F0-4B52-4275-ABF6-9C17A554C4FB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "78_Subsets", "78_Subsets\78_Subsets.csproj", "{B9327C1A-897D-4AE4-AEAA-878C99FE2C8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{B41B36F0-4B52-4275-ABF6-9C17A554C4FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B41B36F0-4B52-4275-ABF6-9C17A554C4FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B41B36F0-4B52-4275-ABF6-9C17A554C4FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9327C1A-897D-4AE4-AEAA-878C99FE2C8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9327C1A-897D-4AE4-AEAA-878C99FE2C8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9327C1A-897D-4AE4-AEAA-878C99FE2C8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9327C1A-897D-4AE4-AEAA-878C99FE2C8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
