@@ -77,6 +77,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "50_Pow(x, n)", "50_Pow(x, n
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "515_FindLargestValueInEachTreeRow", "515_FindLargestValueInEachTreeRow\515_FindLargestValueInEachTreeRow.csproj", "{DAA499CD-A71F-4CFE-A143-5F27FBC15209}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200_NumberOfIslands", "200_NumberOfIslands\200_NumberOfIslands.csproj", "{73200010-A299-4070-8F38-AD11AF81889A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -231,6 +233,10 @@ Global
 		{DAA499CD-A71F-4CFE-A143-5F27FBC15209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DAA499CD-A71F-4CFE-A143-5F27FBC15209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DAA499CD-A71F-4CFE-A143-5F27FBC15209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73200010-A299-4070-8F38-AD11AF81889A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73200010-A299-4070-8F38-AD11AF81889A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73200010-A299-4070-8F38-AD11AF81889A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73200010-A299-4070-8F38-AD11AF81889A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
