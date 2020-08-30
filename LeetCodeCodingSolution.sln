@@ -79,6 +79,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "515_FindLargestValueInEachT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "200_NumberOfIslands", "200_NumberOfIslands\200_NumberOfIslands.csproj", "{73200010-A299-4070-8F38-AD11AF81889A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_LongestPalindromicSubstring", "5_LongestPalindromicSubstring\5_LongestPalindromicSubstring.csproj", "{C2425D0B-4142-4846-9D2C-53C747FBE3CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{73200010-A299-4070-8F38-AD11AF81889A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73200010-A299-4070-8F38-AD11AF81889A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73200010-A299-4070-8F38-AD11AF81889A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2425D0B-4142-4846-9D2C-53C747FBE3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2425D0B-4142-4846-9D2C-53C747FBE3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2425D0B-4142-4846-9D2C-53C747FBE3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2425D0B-4142-4846-9D2C-53C747FBE3CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
