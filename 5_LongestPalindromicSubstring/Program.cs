@@ -13,6 +13,9 @@ namespace _5_LongestPalindromicSubstring
         }
     }
 
+    /// <summary>
+    /// 暴力解法
+    /// </summary>
     public class Solution
     {
         public string LongestPalindrome(string s)
@@ -87,6 +90,83 @@ namespace _5_LongestPalindromicSubstring
             isHuiWen = true;
 
             return isHuiWen;
+        }
+    }
+
+    /// <summary>
+    /// 动态规划
+    /// </summary>
+    public class Solution2
+    {
+        public string LongestPalindrome(string s)
+        {
+            if (string.IsNullOrEmpty(s))
+            {
+                return string.Empty;
+            }
+
+            bool[,] dp = new bool[s.Length, s.Length];
+            for (int i = 0; i < s.Length; i++)
+            {
+                dp[i, i] = true;
+            }
+
+            int maxJ = 0;
+            int maxI = 0;
+
+            //for (int i = 0; i < s.Length; i++)
+            //{
+            //    for (int j = i; j < s.Length; j++)
+            //    {
+            //        //if (j - 1 < 3)
+            //        //{
+
+            //        //}
+            //        //else
+            //        //{
+            //        //    dp[i, j] = dp[i + 1, j - 1] && s[i] == s[j];
+            //        //}
+
+            //        if (i + 1 <= j - 1)
+            //        {
+            //            dp[i, j] = dp[i + 1, j - 1] && s[i] == s[j];
+            //        }
+            //        else
+            //        {
+            //            dp[i, j] = s[i] == s[j];
+            //        }
+
+            //        if (dp[i, j] == true && j - i > maxJ - maxI)
+            //        {
+            //            maxI = i;
+            //            maxJ = j;
+            //        }
+
+            //    }
+            //}
+
+            for (int j = 1; j < s.Length; j++)
+            {
+                for (int i = 0; i < j; i++)
+                {
+                    if (i + 1 <= j - 1)
+                    {
+                        dp[i, j] = dp[i + 1, j - 1] && s[i] == s[j];
+                    }
+                    else
+                    {
+                        dp[i, j] = s[i] == s[j];
+                    }
+
+                    if (dp[i, j] == true && j - i > maxJ - maxI)
+                    {
+                        maxI = i;
+                        maxJ = j;
+                    }
+                }
+            }
+
+            return s.Substring(maxI, maxJ - maxI + 1);
         }
     }
 }
