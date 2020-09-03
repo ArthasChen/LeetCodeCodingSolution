@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "529_Minesweeper", "529_Mine
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "127_WordLadder", "127_WordLadder\127_WordLadder.csproj", "{A070C91E-E2F4-4D55-A803-95FCB4B9AF1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "860_LemonadeChange", "860_LemonadeChange\860_LemonadeChange.csproj", "{5FFEF652-A41C-4F6B-A376-0C3C411895AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{A070C91E-E2F4-4D55-A803-95FCB4B9AF1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A070C91E-E2F4-4D55-A803-95FCB4B9AF1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A070C91E-E2F4-4D55-A803-95FCB4B9AF1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFEF652-A41C-4F6B-A376-0C3C411895AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFEF652-A41C-4F6B-A376-0C3C411895AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFEF652-A41C-4F6B-A376-0C3C411895AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFEF652-A41C-4F6B-A376-0C3C411895AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
