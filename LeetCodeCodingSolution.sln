@@ -89,6 +89,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "860_LemonadeChange", "860_L
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "122_BestTimeToBuyAndSellStock2", "122_BestTimeToBuyAndSellStock2\122_BestTimeToBuyAndSellStock2.csproj", "{38092AB6-2B04-41CB-B134-92FACB8CCD84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "455_AssignCookies", "455_AssignCookies\455_AssignCookies.csproj", "{790FAD6A-5E59-4876-BF96-5A9DDC8AD246}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "874_WalkingRobotSimulation", "874_WalkingRobotSimulation\874_WalkingRobotSimulation.csproj", "{231593A2-E35F-460A-9C74-4275C5DC7199}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +271,14 @@ Global
 		{38092AB6-2B04-41CB-B134-92FACB8CCD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38092AB6-2B04-41CB-B134-92FACB8CCD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38092AB6-2B04-41CB-B134-92FACB8CCD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{790FAD6A-5E59-4876-BF96-5A9DDC8AD246}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{790FAD6A-5E59-4876-BF96-5A9DDC8AD246}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{790FAD6A-5E59-4876-BF96-5A9DDC8AD246}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{790FAD6A-5E59-4876-BF96-5A9DDC8AD246}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231593A2-E35F-460A-9C74-4275C5DC7199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231593A2-E35F-460A-9C74-4275C5DC7199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231593A2-E35F-460A-9C74-4275C5DC7199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231593A2-E35F-460A-9C74-4275C5DC7199}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
