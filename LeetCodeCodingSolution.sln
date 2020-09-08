@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "455_AssignCookies", "455_As
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "874_WalkingRobotSimulation", "874_WalkingRobotSimulation\874_WalkingRobotSimulation.csproj", "{231593A2-E35F-460A-9C74-4275C5DC7199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "55_JumpGame", "55_JumpGame\55_JumpGame.csproj", "{55A8683F-5B6F-4FDB-A110-95442B9C6A09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{231593A2-E35F-460A-9C74-4275C5DC7199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231593A2-E35F-460A-9C74-4275C5DC7199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231593A2-E35F-460A-9C74-4275C5DC7199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A8683F-5B6F-4FDB-A110-95442B9C6A09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A8683F-5B6F-4FDB-A110-95442B9C6A09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A8683F-5B6F-4FDB-A110-95442B9C6A09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A8683F-5B6F-4FDB-A110-95442B9C6A09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
