@@ -101,6 +101,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69_Sqrt", "69_Sqrt\69_Sqrt.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "367_ValidPerfectSquare", "367_ValidPerfectSquare\367_ValidPerfectSquare.csproj", "{841D5BF1-FE77-44EE-B2F3-737F71510A97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21_MergeTwoSortedLists", "21_MergeTwoSortedLists\21_MergeTwoSortedLists.csproj", "{EDEAF69B-EEFB-4827-A05A-705B23A60198}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -303,6 +305,10 @@ Global
 		{841D5BF1-FE77-44EE-B2F3-737F71510A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{841D5BF1-FE77-44EE-B2F3-737F71510A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{841D5BF1-FE77-44EE-B2F3-737F71510A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDEAF69B-EEFB-4827-A05A-705B23A60198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDEAF69B-EEFB-4827-A05A-705B23A60198}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDEAF69B-EEFB-4827-A05A-705B23A60198}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDEAF69B-EEFB-4827-A05A-705B23A60198}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
