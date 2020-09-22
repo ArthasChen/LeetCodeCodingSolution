@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1143_LongestCommonSubsequen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "63_UniquePaths2", "63_UniquePaths2\63_UniquePaths2.csproj", "{DC7214FB-C126-4928-8221-752375906024}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "746_MinCostClimbingStairs", "746_MinCostClimbingStairs\746_MinCostClimbingStairs.csproj", "{C0164407-BF5C-421D-BB93-4EF7E17F6575}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{DC7214FB-C126-4928-8221-752375906024}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC7214FB-C126-4928-8221-752375906024}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC7214FB-C126-4928-8221-752375906024}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0164407-BF5C-421D-BB93-4EF7E17F6575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0164407-BF5C-421D-BB93-4EF7E17F6575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0164407-BF5C-421D-BB93-4EF7E17F6575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0164407-BF5C-421D-BB93-4EF7E17F6575}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
