@@ -123,6 +123,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "746_MinCostClimbingStairs",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "120_Triangle", "120_Triangle\120_Triangle.csproj", "{CE80DFD3-B5E2-4C22-BA6F-C429A0FD3711}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "53_MaximumSubarray", "53_MaximumSubarray\53_MaximumSubarray.csproj", "{D6CEB2F5-114D-4465-B64D-6910B9C46C32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{CE80DFD3-B5E2-4C22-BA6F-C429A0FD3711}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE80DFD3-B5E2-4C22-BA6F-C429A0FD3711}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE80DFD3-B5E2-4C22-BA6F-C429A0FD3711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CEB2F5-114D-4465-B64D-6910B9C46C32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CEB2F5-114D-4465-B64D-6910B9C46C32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CEB2F5-114D-4465-B64D-6910B9C46C32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CEB2F5-114D-4465-B64D-6910B9C46C32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
